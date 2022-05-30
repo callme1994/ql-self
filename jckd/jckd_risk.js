@@ -7,6 +7,7 @@
 */
 
 const $ = Env("晶彩看点风险查询")
+
 const notifyFlag = 1; //0为关闭通知，1为打开通知,默认为1
 const logDebug = 0
 
