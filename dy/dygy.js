@@ -78,6 +78,8 @@ let choose_gold_num = 1;
 			// msg += `\n 【第 ${num} 个账号】`
 			let ck = dygyCookiesArr[index]
 
+
+
 			request_url = {
 				url: 'https://minigame.zijieapi.com',
 				headers: {
